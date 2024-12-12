@@ -1,2 +1,2 @@
-sl
-echo "J3RM@!N3 was here :-)"
+CHEW_CHEW=sl
+EGG=J3RM@!N3 was here :-)
