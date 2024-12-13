@@ -1,2 +1,2 @@
 CHEW_CHEW="sl"
-EGG="Jermaine was here"
+EGG="JB was here :-)"
